@@ -1,4 +1,4 @@
-# Time-Series
+# Time Series
 Objective: Predict weekly sales at Walmart using historical data provided for 45 stores.
 
 Importance: Through the prediction of future weekly sales across various stores, the company can manage their supply chain more efficiently, optimize inventory levels, accommodate higher volume of products, handle traffic, and provide markdowns accordingly.
