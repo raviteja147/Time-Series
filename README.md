@@ -5,4 +5,4 @@ Importance: Through the prediction of future weekly sales across various stores,
 
 Motivation: Forecasting sales is also a common task for data scientists so it can provide a good opportunity to learn different techniques and experiment with real-world data.
 
-Datasets : Retrieved from [https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data](Kaggle)
+Datasets : Retrieved from [Kaggle](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data)
